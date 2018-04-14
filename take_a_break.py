@@ -1,2 +1,5 @@
+import time
 import webbrowser
-webbrowser.open ("https://www.youtube.com/watch?v=jhpgPo8UzL0&t=331s")
+
+time.sleep(10)
+webbrowser.open ("https://www.youtube.com/watch?v=I1188GO4p1E")
